@@ -2,7 +2,7 @@
     "Status": true,
     "HttpStatus": 200,
     "Data": {
-        "ShowAds": false,
+        "ShowAds": true,
         "Ads": [
             {
                 "MonetizationId": 1,
@@ -11,15 +11,6 @@
                 "BannerAdKey": "498021775339777_498025468672741",
                 "InterstitialAdKey": "498021775339777_498025575339397",
                 "RewardedAdKey": "498021775339777_498025668672721",
-                "NativeAdKey": ""
-            },
-            {
-                "MonetizationId": 6,
-                "MonetizerName": "ironSource",
-                "AdAppKey": "15ba0875d",
-                "BannerAdKey": "",
-                "InterstitialAdKey": "",
-                "RewardedAdKey": "",
                 "NativeAdKey": ""
             }
         ]
