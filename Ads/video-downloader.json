@@ -12,7 +12,25 @@
                 "InterstitialAdKey": "361960756135488_361961652802065",
                 "RewardedAdKey": "361960756135488_361961819468715",
                 "NativeAdKey": ""
-            }
+            },
+            {
+                "MonetizationId": 6,
+                "MonetizerName": "ironSource",
+                "AdAppKey": "166deaa15",
+                "BannerAdKey": "",
+                "InterstitialAdKey": "",
+                "RewardedAdKey": "",
+                "NativeAdKey": ""
+            },
+            {
+				"MonetizationId": 5,
+				"MonetizerName": "UnityAds",
+				"AdAppKey": "4925279",
+				"BannerAdKey": "Banner_Android",
+				"InterstitialAdKey": "Interstitial_Android",
+				"RewardedAdKey": "Rewarded_Android",
+				"NativeAdKey": ""
+			}
         ]
     },
     "Message": "Data loaded."
